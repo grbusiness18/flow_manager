@@ -11,7 +11,7 @@
         "id": "f2c1c44e5b1b93fb",
         "type": "inject",
         "z": "3cfb2d4578b3fec5",
-        "name": "dasdadfa",
+        "name": "dasdadfa sda",
         "props": [
             {
                 "p": "payload"
@@ -28,7 +28,7 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 120,
+        "x": 130,
         "y": 100,
         "wires": [
             [
